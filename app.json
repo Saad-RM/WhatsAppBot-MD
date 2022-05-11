@@ -16,7 +16,7 @@
 	"S_PACK": {
             "description": "Sticker Pack Name (leave it if you Wish to use the default)",
             "required": false,
-            "value": "Saad_RM"
+            "value": "𝙎𝘼𝘼𝘿 𝙍𝙈"
         }, 
 	"WORKTYPE": {
             "description": "change the Work Type (public or private)",
@@ -26,7 +26,7 @@
 	"S_AUTHOR": {
             "description": "Sticker author name. (leave it if you Wish to use the default)",
             "required": false,
-            "value": "Saad RM"
+            "value": "𝙎𝘼𝘼𝘿 𝙍𝙈"
         }, 
     "SUDO": {
             "description": "Add superuser to this bot",
@@ -64,12 +64,12 @@
     "WATERMARK": {
             "description": "watermark for the bot (leave it if you Wish to use the default)",
             "required": false,
-            "value": "Saad RM"
+            "value": "𝙎𝘼𝘼𝘿 𝙍𝙈"
         },
     "BOTNAME": {
             "description": "Name of The BOT (leave it if you Wish to use the default)",
             "required": false,
-            "value": "Saad RM"
+            "value": "𝙎𝘼𝘼𝘿 𝙍𝙈"
         },
     "ICON": {
             "description": "Icon to appear in menu (leave it if you Wish to use the default)",
@@ -94,17 +94,17 @@
     "INSTAGRAM": {
             "description": "Your Instagram Id URL (leave it if you dont have one)",
             "required": false,
-            "value": "https://www.instagram.com/saad_rm1"
+            "value": "https://www.instagram.com/saad_rm1/"
         },
     "NAME": {
             "description": "Owner Name (leave it if you Wish to use the default)",
             "required": false,
-            "value": "Saad RM"
+            "value": "𝙎𝘼𝘼𝘿 𝙍𝙈"
         },
     "FOOTER": {
             "description": "Footer Text For The Bot (leave it if you Wish to use the default)",
             "required": false,
-            "value": "ＡＬＩＥＮ ＡＬＦＡ"
+            "value": "𝙎𝘼𝘼𝘿 𝙍𝙈"
         },
     "IMAGE": {
             "description": "Main Image For The Bot (leave it if you Wish to use the default)",
@@ -119,12 +119,12 @@
     "BUTTONURL_LINK1": {
             "description": "URL Button Id/Link (leave it if you Wish to use the default)",
             "required": false,
-            "value": "https://www.instagram.com/alienalfa/"
+            "value": "https://www.instagram.com/saadrm1/"
         },
     "BUTTONURL_LINK2": {
             "description": "Second URL Button Id/Link (leave it if you Wish to use the default)",
             "required": false,
-            "value": "https://youtube.com/c/alienalfa"
+            "value": "https:discord.io/infinity-pe"
         },
     "BUTTONURL_OPTION1": {
             "description": "URL Button Name (leave it if you Wish to use the default:Instagram)",
